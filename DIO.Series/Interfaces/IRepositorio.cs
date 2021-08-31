@@ -11,5 +11,4 @@ namespace DIO.Series.Interfaces
     int ProximoId();
     T RetornarPorId(int id);
   }
-
 }
