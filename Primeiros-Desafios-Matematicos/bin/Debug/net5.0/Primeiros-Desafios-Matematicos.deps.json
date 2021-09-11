@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Primeiros-Desafios-Matematicos/1.0.0": {
+        "runtime": {
+          "Primeiros-Desafios-Matematicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primeiros-Desafios-Matematicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

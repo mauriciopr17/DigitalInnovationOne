@@ -1,0 +1,16 @@
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\Primeiros-Desafios-Matematicos.exe
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\Primeiros-Desafios-Matematicos.deps.json
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\Primeiros-Desafios-Matematicos.runtimeconfig.json
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\Primeiros-Desafios-Matematicos.runtimeconfig.dev.json
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\Primeiros-Desafios-Matematicos.dll
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\ref\Primeiros-Desafios-Matematicos.dll
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\bin\Debug\net5.0\Primeiros-Desafios-Matematicos.pdb
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.csproj.AssemblyReference.cache
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.AssemblyInfoInputs.cache
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.AssemblyInfo.cs
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.csproj.CoreCompileInputs.cache
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.dll
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\ref\Primeiros-Desafios-Matematicos.dll
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.pdb
+C:\Workspace\DigitalInnovationOne\Primeiros-Desafios-Matematicos\obj\Debug\net5.0\Primeiros-Desafios-Matematicos.genruntimeconfig.cache
